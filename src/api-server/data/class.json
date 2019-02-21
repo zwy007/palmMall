@@ -1,0 +1,255 @@
+{
+  "class": [
+    {
+      "classname": "为您推荐",
+      "imgs": [
+        {
+          "img":"../../../static/img/classimg.jpg"
+        },
+        {
+          "img":"../../../static/img/classimg01.jpg"
+        },
+        {
+          "img":"../../../static/img/classimg01.jpg"
+        },
+        {
+          "img": "../../../static/img/classimg01.jpg"
+        }
+
+      ],
+      "imgtwo": [
+        {
+          "img":"../../../static/img/tjclass01.jpg"
+        },
+        {
+          "img":"../../../static/img/tjclass02.jpg"
+        },
+        {
+          "img":"../../../static/img/tjclass03.jpg"
+        },
+        {
+          "img": "../../../static/img/tjclass04.jpg"
+        },
+        {
+          "img":"../../../static/img/tjclass05.jpg"
+        }
+      ],
+      "classone": [
+        {
+          "tit": "为您推荐",
+          "shop": [
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            }
+
+          ]
+        },
+        {
+          "tit": "超值精选",
+          "shop": [
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            }
+
+          ]
+        },
+        {
+          "tit": "移动4G+专区",
+          "shop": [
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            }
+
+          ]
+        }
+      ]
+    },
+    {
+      "classname": "华为手机"
+    },
+    {
+      "classname": "荣耀手机"
+    },
+    {
+      "classname": "笔记本&平板"
+    },
+    {
+      "classname": "智能穿戴"
+    },
+    {
+      "classname": "智能家居"
+    },
+    {
+      "classname": "专属配件"
+    },
+    {
+      "classname": "通用配件"
+    },
+    {
+      "classname": "生态产品"
+    },
+    {
+      "classname": "增值服务",
+      "imgs": [
+        "../../../static/img/classimg.jpg",
+        "../../../static/img/classimg01.jpg",
+        "../../../static/img/classimg01.jpg",
+        "../../../static/img/classimg01.jpg"
+       ],
+      "classone": [
+        {
+          "tit": "为您推荐",
+          "shop": [
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            }
+          ]
+        },
+        {
+          "tit": "超值精选",
+          "shop": [
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            }
+
+          ]
+        },
+        {
+          "tit": "移动4G+专区",
+          "shop": [
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            },
+            {
+              "img": "../../../static/img/428_428_1535358175728mp.jpg",
+              "name": "HUAWEI Mate 20 Pro"
+            }
+
+          ]
+        }
+      ]
+    }
+  ]
+}
