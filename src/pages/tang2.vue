@@ -228,6 +228,7 @@ html,body{
     height: 0.42rem;
     border-top:1px solid #e0e0e0;
     border-bottom:1px solid #e0e0e0;
+    background: white;
   }
   .div1 .icon-youjiantou{
     float:left;
@@ -254,8 +255,10 @@ html,body{
   .zhong{
     flex:1;
     overflow-y:auto;
+    background: white;
   }
   .xia{
+    text-align: center;
     width:100%;
     height: 0.5rem;
     background:#fff6ed;
@@ -296,6 +299,7 @@ html,body{
     margin-left:0.37rem;
   }
   .login{
+    text-align: center;
     float:left;
     width:1.02rem;
     height: 0.33rem;
@@ -687,6 +691,7 @@ html,body{
    top:0;
  }
   #tanchu{
+    text-align: center;
     position:fixed;
     width:3rem;
     height: 1.8rem;

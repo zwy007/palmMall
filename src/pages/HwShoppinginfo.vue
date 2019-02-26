@@ -187,7 +187,7 @@
         <!--参数-->
         <div id="intro" class="scroll_nav intro">
           <h6>规格参数</h6>
-          <table>
+          <table v-if="produce.attrs.zycs">
             <tr :key="index" v-for="(cv,index) in produce.attrs.zycs">
               <td>{{cv.name}}</td>
               <td>{{cv.value}}</td>

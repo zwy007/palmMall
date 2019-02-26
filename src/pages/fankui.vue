@@ -255,7 +255,7 @@
     margin-left:0.13rem;
   }
   .kuangw{
-
+    text-align: center;
     width:100%;
     height: 2.78rem;
     border-bottom:0.08rem solid #f9f9f9;
@@ -356,6 +356,7 @@
     position:relative;
   }
    .cuo{
+     text-align: center;
      display:block;
      color:white;
      background:red;
@@ -393,6 +394,7 @@
     margin-left:0.2rem;
   }
   .inp{
+    text-indent: .1rem;
     width:2.8rem;
     border:none;
     height:0.48rem;

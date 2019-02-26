@@ -63,11 +63,13 @@
     flex: 1;
     overflow-y: auto;
     overflow-x: hidden;
+    background: white;
   }
   .cpntact{
     display:flex ;
     padding: .1rem 0;
     justify-content: center;
+    background: white;
   }
   .cpntact li{
     border: 1px solid #eee;

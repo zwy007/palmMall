@@ -259,6 +259,7 @@
 <style scoped>
    .bigbox{
      font-size:0.16rem;
+     text-align: center;
    }
   .div1{
     width:100%;
@@ -314,6 +315,7 @@
      border-bottom:1px solid #ebebeb;
      outline:none;
      margin-top:0.1rem;
+     text-indent: .1rem;
    }
    input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
      color: #b5b5b5;
@@ -323,8 +325,8 @@
       position:absolute;
       width:1rem;
       text-align:center;
-      height: 0.45rem;
-      line-height: 0.45rem;
+      height: 0.4rem;
+      line-height: 0.4rem;
       background:white;
       z-index: 1;
       right:0.2rem;

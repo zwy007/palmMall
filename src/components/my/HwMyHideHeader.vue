@@ -2,7 +2,7 @@
     <header>
       <div class="left">
         <img src="../../../static/img/defaultface_user_after.png">
-        <span>登录/注册</span>
+        <span @click="toLogin">登录/注册</span>
       </div>
       <div class="mess">
         <i class="iconfont icon-xiaoxi"></i>
@@ -12,7 +12,12 @@
 
 <script>
   export default {
-    name: "HwMyHideHeader"
+    name: "HwMyHideHeader",
+    methods:{
+      toLogin(){
+        this.$router.push("login")
+      }
+    }
   }
 
 </script>

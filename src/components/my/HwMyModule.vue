@@ -17,7 +17,7 @@
     methods:{
       go(){
           if(this.n===5){
-            this.$router.push("/add");
+            this.$router.push("/mange");
           }else if(this.n===0){
             this.$router.push("/vip");
           }else if(this.n===1){
@@ -26,6 +26,8 @@
             this.$router.push("/Hwyxg");
           }else if(this.n===6){
             this.$router.push("/HwWdshiming");
+          }else if(this.n===3){
+            this.$router.push("/HwWdChangjian");
           }
       }
     }

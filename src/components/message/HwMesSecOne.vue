@@ -92,9 +92,9 @@
   .tiao01 .titp{
     display:none;
   }
-  .tiao01 .titspan{
-    transform:rotate( -180deg);
-  }
+  /*.tiao01 .titspan{*/
+    /*transform:rotate( -180deg);*/
+  /*}*/
 .tittime{
   font-size:.1rem;
   color:#bdbdbd;

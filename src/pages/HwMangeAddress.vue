@@ -46,7 +46,7 @@
         </div>
         <div class="add_ress" @click="goadd">
           <img src="../../static/img/add.jpg" alt="">
-            <p>新增收货地址</p>
+            <router-link tag="p" to="/add">新增收货地址</router-link>
         </div>
     </div>
 </template>
